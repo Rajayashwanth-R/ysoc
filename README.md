@@ -4,11 +4,11 @@
 
 
 
-### Tools need to be downloaded
+### Tools need to be downloaded for YSOC Setup
 
 
-| S.No |  Tool names |Download                           | Docs                          | 
-|-------| ------ |---------------------------------|---------------------------------|
+| S.No |  Tool names |Versions    |os    |Download     | Docs      | 
+|-------| ------ |------ |------ |---------------------------------|---------------------------------|
 | 0     |  elastic|[Download](https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-8.3.2-windows-x86_64.msi)  | [Installation Manual](https://media-exp1.licdn.com/dms/document/C4D1FAQGUgrcVyuE_jg/feedshare-document-pdf-analyzed/0/1650207547233?e=2147483647&v=beta&t=a4I4-cqJOrYYo0BQhgPvU7p9dvefJKNyemaKKNecFoA)  | 
 | 1     | aaa | [Download](phase1/README.md) |
 | 2     | bbb | [Download](phase2/README.md) |
