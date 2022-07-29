@@ -24,10 +24,9 @@ Please open an [Issue](https://github.com/soc-cy/soc-cy.github.io/issues)
 
 ## What's next
 
-### [Go to Phase 0: Start from zero tech experience - Optional](phase0/README.md)
+### [Tools](phase0/README.md)
 
-### [Go to Phase 1: Networking and cloud fundamentals](phase1/README.md)
+### [Documents](phase1/README.md)
 
 ___
 
-Note: In Resources section, you will leave this domain by accesing the links provided for references. Beware of external sites asking for your personal information (e.g. phone numbers, credit cards). You may become a victim of a phishing attack! We are not responsible for any such incidents.
