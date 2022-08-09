@@ -17,7 +17,7 @@
 
 
 
-### Questions? Comments? Feedback?
+### Any queries? Please contact Rajayashwanth(raja@yil.com)
 
 Please open an [Issue](https://github.com/soc-cy/soc-cy.github.io/issues)
 
