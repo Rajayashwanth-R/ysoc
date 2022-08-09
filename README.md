@@ -4,7 +4,7 @@
 
 
 
-### Tools need to be downloaded for YSOC Setup
+### Tools/softwares need to be downloaded for initial YSOC Setup
 
 
 | S.No |  Tool names |Versions    |os    |Download     | Docs      | 
@@ -17,7 +17,7 @@
 
 
 
-### Questions? Comments? Feedback?
+### Any query? Please contact at raja@yil.com
 
 Please open an [Issue](https://github.com/soc-cy/soc-cy.github.io/issues)
 
