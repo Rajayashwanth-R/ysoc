@@ -17,12 +17,8 @@
 
 
 
-### Questions? Comments? Feedback?
+### Any queries? Contact our team at yashwanth@yil.com
 
-Please open an [Issue](https://github.com/soc-cy/soc-cy.github.io/issues)
-
-
-## What's next
 
 ### [Tools](phase0/README.md)
 
