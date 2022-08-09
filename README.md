@@ -19,11 +19,6 @@
 
 ### Any queries? Please contact [Rajayashwanth](raja@yil.com)
 
-Please open an [Issue](https://github.com/soc-cy/soc-cy.github.io/issues)
-
-
-## What's next
-
 ### [Tools](phase0/README.md)
 
 ### [Documents](phase1/README.md)
